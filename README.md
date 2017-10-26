@@ -1,3 +1,3 @@
-# My Awesome Book
+# Just Life
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+想要写一些乱七八糟的超日常小故事。
