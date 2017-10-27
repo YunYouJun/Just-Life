@@ -54,14 +54,14 @@
     },
     "sharing": {
       "weibo": true,
-      "facebook": true,
-      "twitter": true,
+      "facebook": false,
+      "twitter": false,
       "google": true,
       "instapaper": false,
       "vk": false,
       "all": [
         "facebook",
-       "google",
+        "google",
         "twitter",
         "weibo",
         "instapaper"
