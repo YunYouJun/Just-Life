@@ -23,8 +23,6 @@
   },
   "plugins": [
     "disqus@^0.1.0",
-    "advanced-emoji@^0.2.1",
-    "github@^2.0.0",
 
   ],
   "pluginsConfig": {
