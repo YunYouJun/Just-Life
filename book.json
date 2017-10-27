@@ -2,6 +2,7 @@
   "title": "Just Life",
   "description": "超日常故事",
   "author": "云游君",
+  "output.name": "site",
   "language": "zh-hans",
   "gitbook" : ">=3.0.0",
   "root": ".",
