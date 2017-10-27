@@ -22,18 +22,7 @@
     "epub": "styles/epub.css"
   },
   "plugins": [
-  "disqus",
-  "advanced-emoji",
-  "github",
-  "github-buttons",
-  "katex",
-  "splitter",
-  "tbfed-pagefooter",
-  "3-ba",
-  "donate",
-  "anchors",
-  "favicon",
-  "edit-link",
+
   ],
   "pluginsConfig": {
     "theme-default": {
