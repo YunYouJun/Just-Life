@@ -11,6 +11,7 @@
 * [Week-1](spring/week-1.md)
   * [Day-1](spring/day-1.md)
   * [Day-2](spring/day-2.md)
+  * Day-3
 
 ## Summer
 
