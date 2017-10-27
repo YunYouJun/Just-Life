@@ -4,7 +4,7 @@
   "author": "云游君",
   "output.name": "site",
   "language": "zh-hans",
-  "gitbook" : ">=3.0.0",
+  "gitbook" : "3.2.2",
   "root": ".",
   "structure": {
     "readme": "README.md"
